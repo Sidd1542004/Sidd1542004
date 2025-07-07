@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth V</h1>
-<h3 align="center">🚀Full Stack Developer|Crafting Scalable Solutions💻🎨 UI/UX Designer|Designing with Purpose🖌️</h3>
+<h3 align="center">🚀Full Stack Developer|Crafting Scalable Solutions💻|🎨 UI/UX Designer|Designing with Purpose🖌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd1542004&label=Profile%20views&color=0e75b6&style=flat" alt="sidd1542004" /> </p>
 
