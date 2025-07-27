@@ -43,7 +43,7 @@
   <a href="https://www.eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/></a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/></a>
-  <a href="https://manage.wix.com/ target=_blank"><img src="https://seeklogo.com/images/W/wix-com-logo-97D14B3FE6-seeklogo.com.png" alt="wix studio" width="40" height="40"/></a>
+  <a href="https://manage.wix.com/ target=_blank"><img src="https://images.websitebuilderexpert.com/wp-content/uploads/2023/08/07074923/Wix-Studio-Logo-1.png" alt="wix studio" width="40" height="40"/></a>
 
 </p>
 
