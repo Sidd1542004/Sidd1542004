@@ -14,7 +14,6 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Computer Science & Engineering** student, National Engineering College, Kovilpatti
 - 🤖 Building production-grade AI systems — not tutorial clones
 - 🧠 Deep interest in **LLMs, RAG, AI Agents, MCP** and automation
 - 📄 Presented research at **ICNIEE 2026** — *FarmWise: An Intelligent Agricultural Decision Support & Marketplace Platform*
