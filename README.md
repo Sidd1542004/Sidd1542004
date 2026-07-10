@@ -1,17 +1,126 @@
-👋 Hi, I'm Siddharth V
-🚀 Full Stack Developer | Scalable Solutions | 🎨 UI/UX Designer
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sidd1542004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-🌐 Connect with Me
-<p align="center"> <a href="https://twitter.com/siddharth150424"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://linkedin.com/in/sidd1542004"> <img src="https://img.shields.io/badge/LinkedIn-%23276DC3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.hackerrank.com/profile/2212113_sidharth"> <img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://leetcode.com/u/f7fvvciewx/"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
-🛠️ Languages & Tools
-<p align="center"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="35"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="35"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35"/> <img src="https://images.websitebuilderexpert.com/wp-content/uploads/2023/08/07074923/Wix-Studio-Logo-1.png" alt="Wix Studio" width="35"/> </p>
-✨ My Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidd1542004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd1542004&layout=compact&theme=tokyonight" alt="Top Langs" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sidd1542004&theme=tokyonight" alt="GitHub Streak" height="170"/> </p>
-🧩 About Me
-🔭 I’m currently working on scalable web applications and UI/UX projects.
+# 👋 Hi, I'm **Siddharth V**
 
-🌱 Always learning modern JS, design tools, and backend technologies.
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+LLM+Applications;RAG+%7C+AI+Agents+%7C+Automation;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+Building production-ready AI applications using
+`<b>`{=html}LLMs`</b>`{=html}, `<b>`{=html}RAG`</b>`{=html},
+`<b>`{=html}AI Agents`</b>`{=html}, `<b>`{=html}Automation`</b>`{=html}
+and `<b>`{=html}Full Stack Engineering`</b>`{=html}.
+```{=html}
+</p>
+```
 
-💡 Passionate about building user-centered products.
+------------------------------------------------------------------------
 
-🤝 Let’s connect and collaborate on incredible projects!
+# 🚀 About Me
+
+-   🎓 Final Year Computer Science Student
+-   🤖 Building AI systems instead of tutorial projects
+-   🧠 Passionate about LLMs, RAG, AI Agents, MCP and Automation
+-   🌱 Currently building **PromptLab**, **Jarvis**, **StockApp**,
+    **Incident Copilot**
+-   🎯 Goal: Build AI software that solves real business problems
+
+------------------------------------------------------------------------
+
+# 🌟 Featured Projects
+
+  -----------------------------------------------------------------------
+  Project                       Description
+  ----------------------------- -----------------------------------------
+  🚀 PromptLab                  AI prompt engineering playground and
+                                evaluation platform
+
+  🤖 Jarvis *(Coming Soon)*     Personal AI Operating System with voice,
+                                Gmail, Calendar and research
+
+  📈 StockApp                   AI-powered stock intelligence dashboard
+
+  🚑 Incident Copilot           AI assistant for incident investigation
+
+  📄 DocuMind                   RAG PDF chatbot using LangChain + FAISS
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### 🤖 AI
+
+`OpenAI` `Gemini` `Groq` `Ollama` `LangChain` `FAISS` `RAG`
+
+### ⚙ Backend
+
+`Python` `FastAPI` `Node.js` `Express` `Supabase`
+
+### 🎨 Frontend
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Vite`
+
+### 🗄 Database
+
+`MongoDB` `PostgreSQL` `MySQL`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Docker` `Linux` `Postman`
+
+------------------------------------------------------------------------
+
+# 🎯 Current Focus
+
+-   🚀 PromptLab V5
+-   🤖 Jarvis
+-   ⚡ AI Employees
+-   🧠 MCP
+-   🤝 Multi-Agent Systems
+-   🏢 Vertical AI SaaS
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Stats
+
+Replace **YOUR_USERNAME** with your GitHub username.
+
+``` md
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+```
+
+------------------------------------------------------------------------
+
+# 🗺 Roadmap
+
+-   ✅ Java & SQL Projects
+-   ✅ MERN Stack
+-   ✅ RAG Applications
+-   ✅ AI Products
+-   🔄 Jarvis AI
+-   🔄 AI Employees
+-   🔄 Production AI Infrastructure
+
+------------------------------------------------------------------------
+
+# 🤝 Connect
+
+-   💼 LinkedIn
+-   📧 Email
+-   🌐 Portfolio
+-   📄 Resume
+
+------------------------------------------------------------------------
+
+> *Turning ideas into intelligent systems, one project at a time.*
