@@ -12,7 +12,7 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sidd&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20LLM%20Application%20Builder&descAlignY=55&descSize=18" width="100%"/>
+![Header](./github-header-banner.png)
 
 <!-- Typing animation -->
 <a href="https://github.com/Sidd1542004">
