@@ -1,14 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  GITHUB PROFILE README  ·  Sidd1542004                        ║
-  ║  How to use:                                                  ║
-  ║   1. Create a NEW public repo named EXACTLY: Sidd1542004      ║
-  ║   2. Add this file as README.md at the root                  ║
-  ║   3. Commit → it renders automatically on your profile page  ║
-  ║  Customize the bits marked <!-- EDIT --> below.              ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
